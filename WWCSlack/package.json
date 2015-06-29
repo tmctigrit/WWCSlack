@@ -1,0 +1,26 @@
+{
+  "name": "WWCSlack",
+  "version": "1.0.0",
+  "description": "WWC Slack Upgrades",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "1.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmctigrit/WWCSlack.git"
+  },
+  "keywords": [
+    "WWCSlack"
+  ],
+  "author": "Tricia McTigrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmctigrit/WWCSlack/issues"
+  },
+  "homepage": "https://github.com/tmctigrit/WWCSlack"
+}
